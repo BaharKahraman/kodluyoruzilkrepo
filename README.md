@@ -25,6 +25,10 @@ Pull requestler kabul edilir.Büyük değişikler için ,lütfen daha önce neyi
 
 
 
+[Front-end eğitim patikası](www.patika.dev)
+
+
+
 
 
 
