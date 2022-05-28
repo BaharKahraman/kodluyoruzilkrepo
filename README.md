@@ -25,7 +25,7 @@ Pull requestler kabul edilir.Büyük değişikler için ,lütfen daha önce neyi
 
 
 
-[Front-end eğitim patikası](www.patika.dev)
+[Ptika.dev sayfam](https://app.patika.dev/bhrzdmr)
 
 
 
